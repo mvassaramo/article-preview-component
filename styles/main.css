@@ -58,9 +58,16 @@
 
 .footer {
   display: flex;
+  justify-content: space-between;
+}
+
+.author-details-wrapper {
+  display: flex;
 }
 
 .author-details {
+  display: flex;
+  flex-direction: column;
   margin-left: 1rem;
 }
 
@@ -73,6 +80,10 @@
 .publishing-date {
   color: hsl(212, 23%, 69%);
   margin-top: 0;
+}
+
+.share-wrapper {
+  /* TODO */
 }
 
 .share-icon {

@@ -7,7 +7,7 @@
   flex-direction: column;
   background-color: white;
   border-radius: 1rem;
-  box-shadow: 5px px 3px hsl(212, 23%, 69%);
+  box-shadow: 5px 5px 3px hsl(212, 23%, 69%);
 }
 
 .background-image {
@@ -51,12 +51,10 @@
   margin-bottom: 2rem;
 }
 
-
 .author-image {
   border-radius: 12rem;
   height: 48px;
 }
-
 
 .footer {
   display: flex;

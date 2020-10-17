@@ -82,12 +82,13 @@
   margin-top: 0;
 }
 
-.share-wrapper {
-  /* TODO */
+.share-button {
+  background-color: hsl(210, 46%, 95%);
+  border-radius: 12rem;
+  border: none;
+  height: 44px;
 }
 
 .share-icon {
-  height: 32px;
-  background-color: hsl(210, 46%, 95%);
-  border-radius: 12rem;
+  height: 26px;
 }

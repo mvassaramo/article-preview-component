@@ -89,6 +89,19 @@
   height: 44px;
 }
 
+.share-button:hover {
+  background-color: hsl(217, 19%, 35%);
+}
+
 .share-icon {
   height: 26px;
 }
+
+.share-options {
+  visibility: hidden;
+}
+
+.visible {
+  visibility: visible;
+}
+
